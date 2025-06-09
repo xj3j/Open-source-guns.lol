@@ -2,12 +2,15 @@
 
 > **Main Repository:** [github.com/JAQLIV/gunslol-open-source](https://github.com/JAQLIV/gunslol-open-source)
 
+> **My own one:** https://snowlol.netlify.app/
+
 This fork adds Discord Rich Presence integration and cursor improvements to the original Gunslol project.
 
 ## ✨ New Features
 
 - **Discord Activity Integration** - Show your gaming status on Discord
 - **Enhanced Cursor** - Improved cursor behavior and responsiveness
+- **fixed the sound delay** - Fixed the song delay now when u enter the website it starts the video and the song at the same time but the song is muted it get inmuted when u press click to enter
 
 ## 🔗 Discord Integration Setup
 
