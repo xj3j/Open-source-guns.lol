@@ -2,7 +2,7 @@
 
 > **Main Repository:** [github.com/JAQLIV/gunslol-open-source](https://github.com/JAQLIV/gunslol-open-source)
 
-> **My own one:** https://snowlol.netlify.app/
+> **My own one:** https://snowwed.lol/
 
 This fork adds Discord Rich Presence integration and cursor improvements to the original Gunslol project.
 
